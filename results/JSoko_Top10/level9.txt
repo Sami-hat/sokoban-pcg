@@ -1,0 +1,10 @@
+Level:   1 Title: Level 1                                   | Moves:   71  | Pushes:  17   | Time:  18.0s  | Status: solved.
+Solution:
+drrrrdDuullllddrdrrddrruuLLLrrrdRDrUdddllUUUruLLLddrrrDldllURdlllluuurU
+
+
+   1 levels processed.
+   1 levels solved.
+   0 levels not solved.
+
+Moves: 71, Pushes: 17, Time: 18.0s
