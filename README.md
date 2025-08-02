@@ -92,7 +92,7 @@ rating = (a×M) + (b×P) + (c×D) + (d×I) + (e×C) - (f×G) - (g×B) + R
 
 Where weights are carefully tuned based on puzzle design principles.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 sokoban-pcg/
