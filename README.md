@@ -52,7 +52,7 @@ When launching the GUI, you'll be prompted to select a level set:
 - **`1`**: Top 10 composite-rating levels (used in Section 6.3.2 of report)
 - **`2`**: Levels for testing individual metrics
 
-## 🔧 Configuration
+## Configuration
 
 ### Generation Parameters
 
